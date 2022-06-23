@@ -1,0 +1,26 @@
+.text {
+    text-align: center
+}
+span{
+    color: red;
+}
+.food-photo img{
+    width: 500px;
+    height: 500px;
+}
+.food-photo{
+    display: flex;
+    justify-content:center;
+    gap: 100px 100px;
+}
+/* #food-photo{
+    display: flex;
+    width: 100px;
+    margin: 0 -5px 0 50; 
+} */
+body{
+    background-color: rgb(96, 212, 96);
+}
+#copyright{
+    text-align: right;
+}
